@@ -1,3 +1,4 @@
+#Тело запроса для создания заказа
 body_order_with_optional = {
     "firstName": "Тест",
     "lastName": "Тестов",
